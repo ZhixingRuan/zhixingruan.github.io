@@ -1,15 +1,26 @@
 project:
   type: website
 
+
 website:
-  title: "Zhixing Ruan"
+  title: "Zhixing Ruan"  
+
+  repo-url: &repo-url "https://github.com/zhixingruan/zhixingruan.github.io"
+  repo-actions: ["edit"]
+  repo-subdir: "content"
+
   navbar:
     left:
-      - text: "Posts"
+      - text: "Tech_Posts"
         file: "blog.qmd"
+      - text: "Fun_Posts"
+        file: "funblog.qmd"
     right:
       - icon: "github"
         href: "https://github.com/zhixingruan"
+      - icon: "linkedin"
+        href: "https://www.linkedin.com/in/zhixing-ruan/"
+
 
 format:
   html:

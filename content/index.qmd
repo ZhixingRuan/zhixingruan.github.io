@@ -15,13 +15,11 @@ about:
       href: "mailto:zhixingruan@gmail.com"
 ---
 
+Zhixing Ruan   --   阮智星
 
-# My profile
 
-- Thing 1
-- Thing 2
+### Who am I ?
 
-<details>
-<summary>I'm collapsible!</summary>
-I'm hidden until expanded.
-</details>
+- Was a **Scientist** in Glaciers & Remote Sensing
+- A **Data Scientist** in academia and any fun area 
+- A serious **Climber** : )
