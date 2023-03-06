@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Zhixing Ruan"
+  navbar:
+    left:
+      - text: "Posts"
+        file: "blog.qmd"
+    right:
+      - icon: "github"
+        href: "https://github.com/zhixingruan"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

@@ -1,0 +1,14 @@
+name: zhixing-homepage
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python ~=3.11.0
+
+  # Framework dependencies
+  - quarto ~=1.2.335
+  - jupyter ~=1.0.0
+
+  # Self-dependencies (e.g. I've written code that uses these in a document)
+  - matplotlib-base ~=3.7.0
+  - cartopy ~=0.21.1

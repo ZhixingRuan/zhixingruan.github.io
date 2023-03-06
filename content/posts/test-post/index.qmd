@@ -1,0 +1,56 @@
+---
+title: "Test post, please ignore"
+author: "Zhixing Ruan"
+categories: ["news"]
+---
+
+This is a test blog post rendered using [Quarto](https://quarto.org) ❤️
+
+With Quarto, I can render math:
+
+$$\tau > \pi$$
+
+
+...and I can calculate results:
+
+```{python}
+import math
+math.tau > math.pi
+```
+
+... and I can show maps and plots:
+
+```{python}
+import cartopy.crs as ccrs
+import matplotlib.pyplot as plt
+
+ax = plt.axes(projection=ccrs.NorthPolarStereo(central_longitude=-45))
+ax.set_extent([-180, 180, 90, 40], crs=ccrs.PlateCarree())
+ax.stock_img()
+
+# TODO: Put some data on the map
+
+plt.show()
+```
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+::: callout-note
+I'm a note!
+:::
+
+- Thing 1
+- Thing 2
+- [Thing 3](http://example.com)
+
+![](/resources/dundee.jpg)
+
+This is **bold** text. This is _italic_ text. This is *also italic* text.
+
+```{python}
+print("I can do math! 1 + 1 = " + str(1+1))
+```

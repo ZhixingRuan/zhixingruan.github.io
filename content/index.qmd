@@ -1,0 +1,27 @@
+---
+title: "Zhixing Ruan"
+image: "resources/dundee.jpg"
+about:
+  template: "trestles"
+  links:
+    - icon: "github"
+      text: "Personal Github"
+      href: "https://github.com/zhixingruan"
+    # - icon: "at"
+    #   text: "ORCID"
+    #   href: "https://orcid.org/0000-0000-0000-0000"
+    - icon: "envelope"
+      text: "E-mail"
+      href: "mailto:zhixingruan@gmail.com"
+---
+
+
+# My profile
+
+- Thing 1
+- Thing 2
+
+<details>
+<summary>I'm collapsible!</summary>
+I'm hidden until expanded.
+</details>
