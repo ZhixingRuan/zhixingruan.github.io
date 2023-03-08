@@ -1,1 +1,17 @@
 /* css styles */
+
+/* make the about page as wide as other page */
+.quarto-about-trestles {
+	grid-column: page-start/page-end;
+}
+
+/*
+details {
+	padding-left: 1.1rem;
+}
+
+details summary {
+	color: var(--bs-body-color);
+}
+*/
+
