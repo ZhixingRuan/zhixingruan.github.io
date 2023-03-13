@@ -20,13 +20,13 @@ However, no bad applicants can be captured.
 
 ## 2. Two common methods of dealing with imbalanced dataset
 
-- **Oversampling of minority class, Undersampling of majority class**
+#### Oversampling of minority class, Undersampling of majority class
 
 Increase the samples of minority class, or reduce samples of majority class. It can help balance the class distribution and improve the performance of the model on the minority class.
 
 **SMOTE** Synthetic Minority Over-sampling Technique is a popular algorithm to oversample. It works by computing one sample's k nearest neighbors in the feature space, then generating samples by interpolating between the selected instance and its neighbors.
 
-- **Weighted classes in models** 
+#### Weighted classes in models 
 
 Assiging different weights to the classes during training, by modifying the loss funcion. This means the loss function will penalize more for misclassifying minority class.
 
@@ -36,7 +36,7 @@ For the case project, the model and data processing methods highly depend on the
 
 Assume that a good applicant will bring some financial profit while a bad applicant will cause financial loss. It is important to calculate the business value in model/methods selection rather than just purely comparing the metrics.
 
-The standards can be simplified as: assume the average profit brought by a good applicant gain_avg, and the average financial loss caused by a bad applicant as loss_avg. The number of good applicants as n_class0, and the number of bad applicants as n_class1.
+The standards can be simplified as: assume the average profit brought by a good applicant as 'gain_avg', and the average financial loss caused by a bad applicant as 'loss_avg'. The number of good applicants as 'n_class0', and the number of bad applicants as 'n_class1'.
 
 The business value of a model can be represented as:
 $$TN * gain\_avg - FN * loss\_avg$$
@@ -47,7 +47,7 @@ $$TN * gain\_avg - FN * loss\_avg$$
 
 *More details in this [notebook](https://github.com/ZhixingRuan/credit-card-approval_project/blob/master/model_3_experiment.ipynb)*
 
-#### 4.1 SMOTE
+### 4.1 SMOTE
 
  
 ```Python
@@ -95,7 +95,7 @@ SMOTE to handle imbalanced data
 :::
 
 
-#### 4.2 Weighted classes
+### 4.2 Weighted classes
 
 
 ```Python
@@ -140,7 +140,7 @@ Weighted classes to handle imbalanced data
 :::  
 
 
-#### 4.3 Weights selection
+### 4.3 Weights selection
 
 Tune the number of weights to choose different weights for different business values.
 
