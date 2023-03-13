@@ -1,5 +1,5 @@
 ---
-title: "Imbalanced data problem in classification models"
+title: "Imbalanced data problem: a case study in credit card applicants classification"
 author: "Zhixing Ruan"
 categories: ["Machine Learning"]
 ---
@@ -39,9 +39,9 @@ Assume that a good applicant will bring some financial profit while a bad applic
 The standards can be simplified as: assume the average profit brought by a good applicant gain_avg, and the average financial loss caused by a bad applicant as loss_avg. The number of good applicants as n_class0, and the number of bad applicants as n_class1.
 
 The business value of a model can be represented as:
-$$Profit = TN * gain\_avg - FN * loss\_avg$$
+$$TN * gain\_avg - FN * loss\_avg$$
 
-**Model selection should be based on comparing this profit values of different models.**
+**Model selection should be based on comparing this business values of different models.**
 
 ## 4. Details of different methods handling imbalanced data
 
