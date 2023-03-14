@@ -36,12 +36,12 @@ For the case project, the model and data processing methods highly depend on the
 
 Assume that a good applicant will bring some financial profit while a bad applicant will cause financial loss. It is important to calculate the business value in model/methods selection rather than just purely comparing the metrics.
 
-The standards can be simplified as: assume the average profit brought by a good applicant as 'gain_avg', and the average financial loss caused by a bad applicant as 'loss_avg'. The number of good applicants as 'n_class0', and the number of bad applicants as 'n_class1'.
+The standards can be simplified as: assume the average profit brought by a good applicant as $gain\_avg$, and the average financial loss caused by a bad applicant as $loss\_avg$.
 
 The business value of a model can be represented as:
 $$TN * gain\_avg - FN * loss\_avg$$
 
-**Model selection should be based on comparing this business values of different models.**
+**Model selection should be based on comparing business values of different models.**
 
 ## 4. Details of different methods handling imbalanced data
 
