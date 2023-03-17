@@ -1,0 +1,13 @@
+---
+title: "1_Glacier surface velocity estimation in the West Kunlun Mountain range from L-band ALOS/PALSAR images using modified synthetic aperture radar offset-tracking procedure"
+categories: ["Glaciers", 'Remote Sensing']
+---
+
+- Glacier movement is closely related to changes in climatic, hydrological, and geological factors. 
+- Detecting glacier surface flow velocity with conventional ground surveys is challenging. 
+- Remote sensing techniques, especially synthetic aperture radar (SAR), provide regular observations covering larger-scale glacier regions. 
+
+- This paper illustrated the technique extracting glacier surface flow velocity in the West Kunlun Mountains using modified offset-tracking techniques based on ALOS/PALSAR images.
+- The offset detection applied cross correlation in the Fourier domain and global offset elimination of thin plate smooth splines. 
+
+<iframe src="/resources/my_paper/1.pdf" width="100%" height="100%"></iframe> 

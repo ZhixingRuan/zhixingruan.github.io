@@ -20,6 +20,13 @@ Zhixing Ruan   --   阮智星
 
 ### Who am I ?
 
-- Was a **Scientist** in Glaciers & Remote Sensing
-- A **Data Scientist** in academia and any fun area 
-- A serious **Climber** : )
+#### Was a **Scientist** in Glaciers & Remote Sensing
+
+- [Selected papers](https://zhixingruan.github.io/papers.html)
+
+
+#### A **Data Scientist** in academia and any fun area
+
+- [Machine learning articles](https://zhixingruan.github.io/blog.html) 
+
+#### A serious **Climber** : )

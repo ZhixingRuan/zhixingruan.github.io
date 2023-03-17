@@ -1,0 +1,12 @@
+---
+title: "2_Deriving Ice Motion Patterns in Mountainous Regions by Integrating the Intensity-Based Pixel-Tracking and Phase-Based D-InSAR and MAI Approaches: A Case Study of the Chongce Glacier"
+categories: ["Glaciers", 'Remote Sensing']
+---
+
+- As a sensitive indicator of climate change, mountain glacier dynamics are of great concern.
+
+- To derive the ice movement of the whole glacier surface with a high accuracy, an integrated approach combining differential interferometric SAR (D-InSAR), multi-aperture interferometry (MAI), and a
+pixel-tracking (PT) method is proposed in this paper.
+ 
+
+<iframe src="/resources/my_paper/2.pdf" width="100%" height="100%"></iframe> 
