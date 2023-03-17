@@ -5,7 +5,7 @@ categories: ["Glaciers", 'Remote Sensing']
 
 - Changes in mountain glaciers represent a key indicator of climate variability, as well as contributing to sea-level-rise and at times being the source of flood hazards.
 
-- We utilizes Landsat 7 (ETM+), Landsat 8 (OLI), ASTER, and Google Earth optical images acquired between 1999 and 2016 to characterize the dynamics of the glaciers in the eastern Pamir Mountains. 
+- We utilized Landsat 7 (ETM+), Landsat 8 (OLI), ASTER, and Google Earth optical images acquired between 1999 and 2016 to characterize the dynamics of the glaciers in the eastern Pamir Mountains. 
 
 - We quantified the velocity, areal, and frontal changes of these glaciers, which provide us with valuable data on their recent dynamic evolution and an indication of how they may evolve in future years.
  
