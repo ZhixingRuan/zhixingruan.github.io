@@ -22,7 +22,7 @@ Zhixing Ruan   --   阮智星
 
 #### Was a **Scientist** in Glaciers & Remote Sensing
 
-- [Selected papers](https://zhixingruan.github.io/papers.html)
+- [Selected papers](https://zhixingruan.github.io/paper.html)
 
 
 #### A **Data Scientist** in academia and any fun area
