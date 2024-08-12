@@ -1,7 +1,7 @@
 name: zhixing-homepage
 channels:
   - conda-forge
-  - nodefaults
+  - defaults
 dependencies:
   - python ~=3.11.0
 
