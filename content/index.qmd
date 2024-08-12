@@ -12,7 +12,7 @@ about:
     #   href: "https://orcid.org/0000-0000-0000-0000"
     - icon: "envelope"
       text: "E-mail"
-      href: "mailto:zhixingruan@gmail.com"
+      href: "mailto:ruanzhixing@gmail.com"
 ---
 
 Zhixing Ruan   --   阮智星
