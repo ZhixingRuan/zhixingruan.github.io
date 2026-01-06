@@ -25,8 +25,10 @@ Zhixing Ruan   --   阮智星
 - [Selected papers](https://zhixingruan.github.io/paper.html)
 
 
-#### A **Data Scientist** in academia and any fun area
+#### A **Data Scientist** in academia, occasionally distracted by fun ploblems
 
-- [Machine learning articles](https://zhixingruan.github.io/blog.html) 
+- [How do we use ML and satellite data to understand storms *operationally*? 🤓]
+- [Predicting leaf area index with ConvLSTM -- old-school RNNs, but efficient and practical for NWP inputs 😆] 
+- [Exploring imbalanced data in ML -- an endlessly annoying reality in research to me 😅](https://zhixingruan.github.io/posts/imbalance-post/) 
 
 #### A serious **Climber** : )
