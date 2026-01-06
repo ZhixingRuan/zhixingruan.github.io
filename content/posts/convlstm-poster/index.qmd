@@ -1,0 +1,6 @@
+---
+title: "Leaf Area Index Prediction Using ConvLSTM: Application to South-Central US with Insights into Atmosphere-Vegetation Interactions"
+categories: ["ConvLSTM"]
+---
+
+<iframe src="/resources/my_poster/poster_ML-LAI_Ruan_final.pdf" width="100%" height="100%"></iframe> 
