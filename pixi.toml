@@ -1,0 +1,17 @@
+[workspace]
+authors = ["Zhixing Ruan <ruanzhixing@gmail.com>"]
+channels = ["conda-forge"]
+name = "zhixingruan.github.io"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+preview = "quarto preview content"
+render = "quarto render content"
+
+[dependencies]
+python = "~=3.11.0"
+quarto = ">=1.7.33,<2"
+jupyter = "~=1.0.0"
+matplotlib-base = "~=3.7.0"
+cartopy = "~=0.21.1"
