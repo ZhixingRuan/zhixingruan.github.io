@@ -1,6 +1,6 @@
 ---
 title: "Understanding Tropical Cyclone Transition using JPSS Data and Deep Learning"
-categories: ["Classification"]
+categories: ["Classification", "Machine Learning"]
 ---
 
 <iframe src="/resources/my_poster/Final_Ruan_Z_2025_AMS_Annual_Meeting_JETCLASS_Poster.pdf" width="100%" height="100%"></iframe> 

@@ -27,8 +27,10 @@ Zhixing Ruan   --   阮智星
 
 #### A **Data Scientist** in academia, occasionally distracted by fun ploblems
 
-- [How do we use ML and satellite data to understand storms *operationally*? 🤓]
-- [Predicting leaf area index with ConvLSTM -- old-school RNNs, but efficient and practical for NWP inputs 😆] 
+- [How do we use ML and satellite data to understand storms *operationally*? 🤓](https://zhixingruan.github.io/posts/TC_ML/)
+
+- [Predicting leaf area index with ConvLSTM -- old-school RNNs, but efficient and practical for NWP inputs 😆](https://zhixingruan.github.io/posts/convlstm-poster/)
+
 - [Exploring imbalanced data in ML -- an endlessly annoying reality in research to me 😅](https://zhixingruan.github.io/posts/imbalance-post/) 
 
 #### A serious **Climber** : )
